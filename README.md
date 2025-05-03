@@ -2,12 +2,17 @@
 The development of an IoT-enabled automation system for microgreen farming aims to improve efficiency and productivity, reduce manual effort, and increase yield and quality of microgreens using hydroponic methods. Incorporating IoT technology in agriculture can enhance crop production, minimize reso
 📌 What Are Microgreens?
 Microgreens are edible seedlings of vegetables and herbs, typically harvested within 7–21 days of germination. Common microgreens include radish, broccoli, mustard, beet, arugula, and basil. They are known for:
-
 High nutritional content
-
 Short growth cycles
-
 Compact farming requirements
+
+
+Demo Of Microgreen Farming is Present in this video
+
+
+https://github.com/user-attachments/assets/d29c35f2-549f-4ad1-897d-120bf06b97ae
+
+
 
 🌐 Overview of IoT in Agriculture
 IoT in agriculture refers to the use of sensors, cloud computing, data analytics, and networked devices to monitor and control farming operations. In microgreen farming, IoT enhances environmental control, optimizes resource use, and automates routine tasks.
