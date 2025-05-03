@@ -139,6 +139,10 @@ Data Analysis: The cloud platform analyzes the data to determine if any paramete
 Actuation: If necessary, actuators adjust conditions (e.g., turning on lights, activating pumps) to maintain optimal growth conditions.
 
 User Interaction: Users can view real-time data, receive alerts, and manually override settings through the user interface.
+![Screenshot (379)](https://github.com/user-attachments/assets/6a570885-4a55-47aa-9922-e46dbcbe6ba6)
+
+![Screenshot (378)](https://github.com/user-attachments/assets/7567d009-eb12-4dbf-98e5-a27c4e8d0919)
+
 
 🧭 Benefits of IoT Integration
 Automation: Reduces the need for manual intervention, saving time and labor.
